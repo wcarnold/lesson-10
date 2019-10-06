@@ -1,0 +1,113 @@
+header {
+	background: #4682B4;
+	height: 200px;
+  color: #FFFFFF;
+}
+
+header h1 {
+  text-align: center;
+	margin: 0;
+	padding-top: 60px;
+  font-family: 'Kalam', cursive;
+}
+
+header h2 {
+  text-align: center;
+  margin: 0;
+  padding-top:20px;
+  padding-bottom: 50px;
+  font-family: 'Big Shoulders Display', cursive;
+}
+
+.nav {
+  width: 100%;
+  background-color: #DCDCDC;
+	color: #FFFFFF
+	float: left;
+  display: block;
+	text-decoration: none;
+	padding: 20px;
+}
+
+.nav a {
+	padding: .5rem;
+	margin: .5rem;
+}
+
+body {
+	margin:0;
+	padding:0;
+	font-family: Sans-Serif;
+	line-height: 1.5em;
+}
+
+
+h3 {
+  color: #396A93;
+  font-family: 'Didact Gothic', sans-serif;
+	font-size: 1rem;
+}
+
+.box {
+  height: 160px;
+  width: 550px;
+  border: 30px;
+  background: #F0F0F0;
+}
+
+.small-box {
+  height: 50px;
+  width: 550px;
+  border: 30px;
+  background: #F0F0F0;
+}
+
+.large-box {
+  height: 230px;
+  width: 550px;
+  border: 30px;
+  background: #F0F0F0;
+}
+
+main {
+  padding-bottom: 10px;
+  margin-top: 50px;
+  margin-bottom: -10px;
+  float: left;
+  width: 80%;
+  padding-left: 80px;
+}
+
+section {
+  float: left;
+  width: 60%;
+}
+
+aside {
+  padding-bottom: 30px;
+  float: right;
+  width: 30%;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+p {
+  font-size: .8rem;
+}
+
+a {
+	font-weight: bold;
+  color: #2D758F;
+  font-size: 1rem
+}
+
+.grey-text {
+  color: #333333;
+}
+
+footer {
+  clear: both;
+  background:	#757575;
+	color: #000000;
+  text-align: center;
+  padding: 50px;
+}

@@ -10,7 +10,7 @@ body {
 
 .hidden {
   position: relative;
-  left: -1000000000;
+  left: -10000;
   top: auto;
 }
 
